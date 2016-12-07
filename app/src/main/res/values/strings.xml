@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Champions</string>
+
+    <!-- Tela inicial -->
+
+    <string name="alert_OK">OK</string>
+
+    <!-- Aatrox -->
+    <string name="home_aa_toast">Aatrox</string>
+    <string name="home_aa_alert_title">Aatrox</string>
+    <string name="home_aa_alert_msg">The Darkin Blade</string>
+
+    <!-- Amumu -->
+    <string name="home_am_toast">Amumu</string>
+    <string name="home_am_alert_title">Amumu</string>
+    <string name="home_am_alert_msg">The Sad Mummy</string>
+
+    <!-- Azir -->
+    <string name="home_az_toast">Azir</string>
+    <string name="home_az_alert_title">Azir</string>
+    <string name="home_az_alert_msg">The Emperor of the Sands</string>
+
+    <!-- Diana -->
+    <string name="home_di_toast">Diana</string>
+    <string name="home_di_alert_title">Diana</string>
+    <string name="home_di_alert_msg">The Scorn of the Moon</string>
+
+    <!-- Irelia -->
+    <string name="home_ir_toast">Irelia</string>
+    <string name="home_ir_alert_title">Irelia</string>
+    <string name="home_ir_alert_msg">The Will of the Blades</string>
+
+    <!-- Jhin -->
+    <string name="home_jh_toast">Jhin</string>
+    <string name="home_jh_alert_title">Jhin</string>
+    <string name="home_jh_alert_msg">The Virtuoso</string>
+
+    <!-- Talon -->
+    <string name="home_ta_toast">Talon</string>
+    <string name="home_ta_alert_title">Talon</string>
+    <string name="home_ta_alert_msg">The Blades Shadow</string>
+
+    <!-- Thresh -->
+    <string name="home_th_toast">Thresh</string>
+    <string name="home_th_alert_title">Thresh</string>
+    <string name="home_th_alert_msg">The Chain Warden</string>
+
+    <!-- Udyr -->
+    <string name="home_ud_toast">Udyr</string>
+    <string name="home_ud_alert_title">Udyr</string>
+    <string name="home_ud_alert_msg">The Spirit Walker</string>
+
+    <!-- Vayne -->
+    <string name="home_va_toast">Vayne</string>
+    <string name="home_va_alert_title">Vayne</string>
+    <string name="home_va_alert_msg">The Night Hunter</string>
+
+    <!-- Warwick -->
+    <string name="home_wa_toast">Warwick</string>
+    <string name="home_wa_alert_title">Warwick</string>
+    <string name="home_wa_alert_msg">The Blood Hunter</string>
+
+    <!-- Zed -->
+    <string name="home_ze_toast">Zed</string>
+    <string name="home_ze_alert_title">Zed</string>
+    <string name="home_ze_alert_msg">The Master of Shadows</string>
+</resources>
